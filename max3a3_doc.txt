@@ -1,0 +1,7 @@
+chagnes
+
+in dist/cjs/index.js add
+exports.HTML5BackendClass = _HTML5Backend.default
+ so can override it
+
+note the change is in dist folder so don't build this package
